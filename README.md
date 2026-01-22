@@ -20,6 +20,7 @@ Perfect for quick browsing and testing without leaving Scriptable.
 Step 1 – Download the Script:
 
 💻 [Click here to download MiniBrowser.scriptable](https://raw.githubusercontent.com/xsxs16/MiniBrowser-Script/refs/heads/main/MiniBrowser_v1.scriptable)
+if it doesn't load, just export the page to your files.
 ( Once you have loaded the file, click on the file and you will be redirected to scriptable.)
 
 Step 2 – Import into Scriptable:
